@@ -8,12 +8,6 @@
     "min_format": 15,
     "max_format": 88,
     "description": "Alex's Japanese Furigana Language"
-  },
-  "language": {
-    "ja_fw": {
-      "name": "日本語（ふりがな）- Word",
-      "region": "日本",
-      "bidirectional": false
     },
     "ja_fe": {
       "name": "日本語（ふりがな）- End",
