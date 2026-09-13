@@ -1,19 +1,16 @@
 {
   "pack": {
     "pack_format": 88,
-    "supported_formats": [
-      15,
-      88
-    ],
+    "supported_formats": [15, 88],
     "min_format": 15,
     "max_format": 88,
-    "description": "Japanese Language by バッタ　ｲﾏﾊﾆｰﾄﾀﾞﾖ"
+    "description": "Japanese Language by バッタ ｲﾏﾊﾆｰﾄﾀﾞﾖ"
   },
   "language": {
-    },
-    "ja_fe": {
+    "ja_jp": {
       "name": "日本語",
       "region": "日本",
       "bidirectional": false
     }
   }
+}
